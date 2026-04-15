@@ -65,7 +65,7 @@ The observed behavior may indicate:
 ## 📄 Report
 
 Full professional report:
-➡️ SOC_Investigation_Professional.pdf
+➡️ SOC_Investigation_Report.pdf
 
 ---
 
